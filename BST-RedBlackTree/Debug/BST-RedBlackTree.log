@@ -1,0 +1,5 @@
+﻿  BST-RedBlackTree.cpp
+C:\Users\Adi\source\repos\BST-RedBlackTree\BST-RedBlackTree\BST-RedBlackTree.cpp(522,9): warning C4101: 'parinte': unreferenced local variable
+C:\Users\Adi\source\repos\BST-RedBlackTree\BST-RedBlackTree\BST-RedBlackTree.cpp(550,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adi\source\repos\BST-RedBlackTree\BST-RedBlackTree\BST-RedBlackTree.cpp(436): warning C4715: 'ARN::getPredecessor': not all control paths return a value
+  BST-RedBlackTree.vcxproj -> C:\Users\Adi\source\repos\BST-RedBlackTree\Debug\BST-RedBlackTree.exe
